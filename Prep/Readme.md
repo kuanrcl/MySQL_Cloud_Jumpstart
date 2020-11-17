@@ -6,4 +6,4 @@
 
 ## Virtual Cloud Network
 
-![vcn1](img/vcn1.png)
+![vcn1](img/VCN1.png)
