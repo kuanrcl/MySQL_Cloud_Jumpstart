@@ -1,5 +1,9 @@
-# Set up Oracle Cloud Infrastructure Basic
+# Setting up basic Oracle Cloud Infrastructure
 
-## Create a compartment to organize your OCI resources
+## Compartment
 
 ![cmp1](img/cmp1.png)
+
+## Virtual Cloud Network
+
+![vcn1](img/vcn1.png)
