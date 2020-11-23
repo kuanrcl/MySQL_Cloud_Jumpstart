@@ -12,3 +12,4 @@ Enablement workshop for MySQL Database Service
 | [Lab 5](Lab5) | Deploy Docker container for MDS
 | [Lab 6](Lab6) | Deploy microservices on MDS
 | [Lab 7](Lab7) | Deploy API Gateway on MDS
+| [Lab 8](Lab8) | Deploy Oracle Data Science on MDS
