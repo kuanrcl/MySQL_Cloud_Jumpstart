@@ -1,9 +1,10 @@
-# Setting up basic Oracle Cloud Infrastructure
+# Provision MySQL Database Service (MDS)
 
-## Compartment
+On your free-trial OCI tenant, you need to perform the following
+* Create a compartment
+* Create policies to work with MDS
+* Create a Virtual Cloud Network
+* Provision MDS
 
-![cmp1](img/cmp1.png)
-
-## Virtual Cloud Network
-
-![vcn1](img/VCN1.png)
+Follow the instructions in this video to create the MDS instance
+https://www.youtube.com/watch?v=dasutiDLTkM&t=36s
