@@ -19,7 +19,7 @@ allow service datascience to use virtual-network-family in compartment
 
 1. Setup your OCI and API Key to access OCI resources by creating the OCI ``config`` file in the terminal session
 
-[ds-1](img/DS-1.jpg)
+![ds-1](img/DS-1.jpg)
 
 2. There are preinstalled connectos that allow you to work with MDS
 * cx-Oracle: A Python extension module that enables access to Oracle Database.
